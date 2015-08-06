@@ -1,5 +1,4 @@
 # Simple-Json-Getter
-Simple-Json-Getter Snippet to simply get a json from a URL with AngularJS
 Snippet to simply get a json from a URL with AngularJS
 
 ##Json to get
